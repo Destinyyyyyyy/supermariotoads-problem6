@@ -18,7 +18,7 @@ import yfinance as yf
 
 
 
-df = yf.Ticker("^GSPC")
+df = yf.Ticker("BTC-USD")
 df = df.history(period = "max")
 
 df.plot.line(y="Close", use_index=True)
@@ -68,5 +68,6 @@ plt.legend()
 plt.show()
 
 # Save the model
-lstm.save("your_model.h5")
+lstm.save("nvideamodel.h5")
 
+#let's go the model's done bsdk.
