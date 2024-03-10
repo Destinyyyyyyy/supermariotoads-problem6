@@ -1,0 +1,49 @@
+.nvidia-image { 
+    position: relative; /* Allows relative positioning */
+    margin-left: 290px;  /* Moves 50 pixels to the right */
+    margin-top: -170px
+   }
+
+   .news-section a:hover {
+    cursor: pointer; /* Change the cursor to a hand */
+    opacity: 0.8;    /* Slightly lighten the image on hover */
+  }
+  
+
+.Trending { 
+    position: relative; /* Allows relative positioning */
+    margin-left: 2px;  /* Moves 50 pixels to the right */
+    margin-top: -720px
+   }
+.credit { 
+    position: relative; /* Allows relative positioning */
+    margin-left: 2px;  /* Moves 50 pixels to the right */
+    margin-top: 18px
+   }
+
+   .stock { 
+    position: relative; /* Allows relative positioning */
+    margin-left: 2px;  /* Moves 50 pixels to the right */
+    margin-top: 20px
+   }
+   .finance { 
+    position: relative; /* Allows relative positioning */
+    margin-left: 2px;  /* Moves 50 pixels to the right */
+    margin-top: 18px
+   }
+
+   .microsoft { 
+    position: relative; /* Allows relative positioning */
+    margin-left: 290px;  /* Moves 50 pixels to the right */
+    margin-top: 30px
+   }
+
+   .sp { 
+    position: relative; /* Allows relative positioning */
+    margin-left: 1000px;  /* Moves 50 pixels to the right */
+    margin-top: -920px
+   }
+
+
+  
+  
